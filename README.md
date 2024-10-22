@@ -3,6 +3,9 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SamuelGdA&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelGdA&layout=compact&langs_count=16&theme=radical">
 </div>
+<div>
+  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white">
+</div>
 <br>
 <h4>Em processo de aprendizado:</h4>
 <div>
